@@ -1,3 +1,22 @@
 header.header {
     background-color: #FFFBF0;
 }
+
+.btn-penguin {
+    color: #FFF;
+    background-image: linear-gradient(#A4BC46, #85A019);
+}
+
+.price-penguin {
+    color: #FABE4C;
+    font-weight: 700;
+}
+
+.card-title {
+    color: #363958;
+    font-weight: 700;
+}
+
+.products-header {
+    color: #363958;
+}
